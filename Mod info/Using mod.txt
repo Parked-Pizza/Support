@@ -1,0 +1,14 @@
+Moderator have a lot of commands. It can be overwhelming!!!
+These are the commands and their uses
+;logs --- This checks the command logs. Useful for finding people who abuse admin
+;chatlogs --- This shows what people have been saying in the chat
+;fly --- Self explanitory
+;noclip ---- allows you to go through walls to inaccessable places
+;bring --- Brings the player of choice to you ||DO NOT USE ON HRS SHRS||
+;to --- Brings you to the selected player
+;servermessage --- Sends a message to the server
+;serverhint --- sends and anonomous message to the server
+;countdown --- Starts a countdown (Used for shifts) the countdown is mesured in seconds eg. 60 seconds is a minute
+;rank ranks people lower than you into teams
+
+These are not all the commands but are the commands most used
