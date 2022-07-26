@@ -12,5 +12,10 @@ TRAINING
 🔒 Locked | The training is locked 🔒
 🆕 The training is concluded
 
+INTERVIEWS
+🗣🗣 Interview | Interview at (Time in GMT) on the (Date)!
+🗣🗣 Interview | Interviews are beginning!
+🗣🗣 Interview | Interviews are over
+
 Only Management+ should use this
 Event |
