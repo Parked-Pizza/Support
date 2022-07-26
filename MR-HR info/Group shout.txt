@@ -1,0 +1,16 @@
+
+SHIFT
+🏨 Shift | I am hosting a shift in the hotel come down for a promotion! 🛎🛎
+
+🏨 Shift | The shift has concluded if you missed it don't fret. 🛎🛎
+
+
+
+TRAINING
+❓ Training | I am doing a training at (Time in GMT) ❗
+🛌🛋🛎 The training is starting in a moment 🏩
+🔒 Locked | The training is locked 🔒
+🆕 The training is concluded
+
+Only Management+ should use this
+Event |
