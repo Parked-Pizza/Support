@@ -1,5 +1,5 @@
 
-   HOST | 1 for every training | Server owner
+   HOST | 1 for every training | Server owner (If the host is Mod+ they can host a shift alone)
   Co-Host | 1 for every training | Server moderator
   Ranker | 1-3 for every training | Management
   Trainer | No limit | Supervisor
