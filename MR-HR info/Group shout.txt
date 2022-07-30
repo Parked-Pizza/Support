@@ -4,6 +4,9 @@ SHIFT
 
 🏨 Shift | The shift has concluded if you missed it don't fret. 🛎🛎
 
+(At any given time before the server locks the trainer may cancel the training and say this)
+❌❌Canceled | The training was canceled. Sorry for the inconvinience. ❌❌
+
 
 
 TRAINING

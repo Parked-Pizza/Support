@@ -90,18 +90,26 @@ Sorry. You have failed the Check in test . Try again next time.
 
 PT3 The shop
 
-Well done you have passed! Now I will tell you about the shop and resteraunts
+Well done you have passed! Now I will tell you about the shop and resteraunt
 
-These are both RP jobs where you can do anything you want.
+The shop is an RP but the resteraunt you need to get the players item.
 
-The resteraunt can be run your way but the shop is a bit different
+The resteraunt the person will state their order eg chips and pizza. Then you go into the kitchen and get  a bag of chips and a pizza.
+Then use the hand to system to give them it. To use it hold the item you want to give and type in their name 
+
+The shop is a bit different
 
 You first say an edited version of your greeting "Welcome to bulgari store What are you buying"
 
 If they say they do not want to RP do not push them. If they do then check out their items
 
 Now we will do a test
-(Do a test)
+
+(Walk up to them. They should say their greeting)
+
+Can I have chips?
+or
+Can I check out?
 
 If they fail then say
 Sorry. You have failed the Shop test. You will not be banned and instead please head over to the Training host.
