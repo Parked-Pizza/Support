@@ -1,11 +1,6 @@
+Training guide is in Guides now.
 
 
+Ah this was probably most used :(
 
-|Host | Server owner -- Maximum of 1 per training
-|Co Host | Server moderator  -MAX 1 PER TRAINING
-Ranker | Management -- Maximum 3 per training
-Trainer |Resort supervisor -- No limit
-Trainee |Needs training -- No limit
-
-
-For training info see guides \ Training guide
+Now now. You will get something MRs and Hrs can use sometime...

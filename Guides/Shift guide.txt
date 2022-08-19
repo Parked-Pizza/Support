@@ -1,17 +1,46 @@
-Shifts are promotion time!!!!
+A shift is like a training. No longer just supervising.
+
 
 Host---- This person needs to see people working hard.
 Co-Host -------- This person is usually the ranker. They rank the people and do the group shout.
-(Optional) You can Host on your own.
 Ranker------- If there is a second ranker ingame or the host decided to do it alone then this is the rankers rank
+ShiftWorker ------ This person Co-ordinates a bit of the shift eg. Shop.
 
+First figure out what kind of shift it is.
+HR --- Moderator- can be ranked
+MR --- Server moderator- can be ranked
+LR --- Hotel intern- can be ranked
+Requirement for each type
+
+HR
+Host---- Co-owner+
+Co-Host -------- General manager+
+Ranker------- General manager+
+ShiftWorker ------ Head moderator
+
+MR
+Host---- Server admin+
+Co-Host -------- Server admin+
+Ranker------- Head moderator+
+ShiftWorker ------ Server admin+
+
+LR
+Host---- Server moderator+
+Co-Host -------- Resort supervisor+
+Ranker------- Head moderator+
+ShiftWorker ------ Resort supervisor+
 
 How to start a shift. First make sure a ranker is ingame for the shift and then go the countdown command by saying ;countdown 1800 meaning it will start a countdown for 30 mins
 
-In a shift find people working well and then tell the management to rank them.
-Once a shift has finished it is over.
+Please announce it on the group wall. See group walls in Support \ MR-HR info \ Group shouts
+Please announce it in sessions on guilded
 
-Times when a shift IS ok (Note: Hosting a shift illegaly means you will have shift permissons revoked)
-If a management is online and knows it is happening.
 
-Remember that by hosting a shift you will be crowded.
+
+Do what feel right if you are a shiftworker.
+JOBS
+Shop
+Reseraunt
+Lobby
+Help (MR only!)
+

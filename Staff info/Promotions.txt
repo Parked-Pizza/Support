@@ -7,17 +7,21 @@ All LR-MR promotions
 4 |LR | Senior staff: These people are considered SLR and have done lots to help our hotel
 5 |LR | Hotel intern: These people are the last LR to get from Senior staff to Intern you need to work hard. You take training to move to the next rank.
 6 |MR| Allied rep: These people are a repersentitave from a different allied group. (Unavalible for promotion)
-7 |MR| Resort supervisor: This rank is the first MR rank. These people are usually very good at the game have taken training and done shifts.
-8 |MR| Server moderator: This rank is like an assistant owner to the server. These people are taked with making sure everything runs smoothly and helping the server owner.
-9 |MR| Server owner: The final MR rank this rank is a very rare one this is the final promotion! These people have worked super hard to get here!
-The rest are HR
+7 |MR| Resort supervisor: This rank is the  rank. These people are usually very good at the game have taken training and done shifts.
+8 |MR| Server moderator: This rank is moderating a server ond helping mods.
+9 |MR | Hotel director: This rank Directs the hotel and makes sure the check in is ok.
+10 |HR| Server Admin: This rank is like an assistant owner to the server. These people are taked with making sure everything runs smoothly and helping the server owner.
+11 |HR| Server owner: A HR rank this rank is a very rare one this is the final promotion! These people have worked super hard to get here!
+The rest are SHR
 Promotion requirements
 1 |LR | Guests: Join the group 
-2 |LR | Needs training: Pass application or have 250 points
-3 |LR | Junior staff: Pass training or attend a shift with 500 points
-4 |LR | Senior staff: Attend a shift with 1750 points
-5 |LR | Hotel intern: Attend a shift with 5000 points
-6 |MR| Allied rep: Ally with our group and then choose yourself as a repersentitave
-7 |MR| Resort supervisor: Do a training as an intern or have 7500 points
-8 |MR| Server moderator: Attend a shift with 10000 points
-9 |MR| Server owner: Attend a shift with 20000 points and work really hard in front of a HR or SHR
+2 |LR | Needs training: Pass application
+3 |LR | Junior staff: Pass training
+4 |LR | Senior staff: Attend a shift
+5 |LR | Hotel intern: Attend a shift
+6 |MR| Allied rep: Rep of an allied group
+7 |MR| Resort supervisor: Attend a shift
+8 |MR| Server moderator : Attend a shift
+9 |MR| Hotel director : Attend a shift
+10 |HR| Server moderator: Attend a shift
+11 |HR| Server owner: work really hard in front of an SHR
