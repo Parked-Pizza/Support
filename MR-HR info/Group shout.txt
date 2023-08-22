@@ -1,12 +1,8 @@
 
 SHIFT
-🏨 Shift | I am hosting a shift in the hotel Its is a (HR/ MR/ LR) 🛎🛎
+ Shift | I am hosting a shift in the hotel Its is a (HR/ MR/ LR) 🍟
 
-🏨 Shift | The shift has concluded if you missed it don't fret. 🛎🛎
-
-Guilded note
-
-Shift in the hotel! Come down to help or take part! HR/MR/LR
+🏨 Shift | The shift has concluded if you missed it don't fret. 🍔
 
 (At any given time before the server locks the trainer may cancel the training and say this)
 ❌❌Canceled | The training was canceled. Sorry for the inconvinience. ❌❌
@@ -15,14 +11,7 @@ Shift in the hotel! Come down to help or take part! HR/MR/LR
 
 TRAINING
 ❓ Training | I am doing a training at (Time in GMT) ❗
-🛌🛋🛎 The training is starting in a moment 🏩
+🥓🍔🍕 The training is starting in a moment 🍖
 🔒 Locked | The training is locked 🔒
 🆕 The training is concluded
 
-INTERVIEWS
-🗣🗣 Interview | Interview at (Time in GMT) on the (Date)!
-🗣🗣 Interview | Interviews are beginning!
-🗣🗣 Interview | Interviews are over
-
-Only Management+ should use this
-Event |
