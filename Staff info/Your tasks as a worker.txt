@@ -1,7 +1,1 @@
-2 |LR | Needs training: Help the Junior and senior staff
-3 |LR | Junior staff: Work at the hotel as in work at a Checkin or Work at shop etc
-4 |LR | Senior staff: Same as junior staff. Answer customer questions
-5 |LR | Hotel intern: Learn about our hotel and work there
-6 |MR| Resort supervisor: Supervise Junior staff and below
-7 |MR| Server moderator: Help the server owner and co-Host shifts
-8 |MR| Server owner: Moderate the server host shifts etc
+ooooops
