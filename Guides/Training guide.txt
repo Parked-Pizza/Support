@@ -1,31 +1,25 @@
+Training is for LR and MR. 
 
-   HOST | 1 for every training | Server admin (If the host is Mod+ they can host a shift alone)
-  Co-Host | 1 for every training | Hotel director
-  Ranker | 1-3 for every training | Management
-  Trainer | No limit | Resort supervisor
-  Trainee |No limit | All
-
-
-
+Host | Chief opperations officer
+Co-Host | Chief Communications officer
+Ranker | Chief communications officer
+Trainer | Management intern
+Trainee | Trainee - Assistant manager
 
 Host Guide
-The host needs to make sure that the trainers are doing the right thing
+The host needs to make sure that the trainers supervise them
 Intro
-At the exact time exmpl. 10am Do a server announcment
-Hello everyone my names (Username) I will be your host.
-(Optional) After the training all trainers and Learners go to the main room for a photo!
+:m Hello everyone my names (Username) I will be your host.
 Co-Host says their intro
-I will first tell you some info that is vital to your success
-Info
-You will need to work as hard as you can for a promotion but I will need points for my first one I will need about 1750 points
-In the shop to check how much something costs stem on the shop sign in front of the counter
-To deal with a troller tell an MR
-After the info you go to the training area and teleport players to their trainer
-End
-Thank you for attending! Have a nice day
+:m I will first tell you some info that is vital to your success
+:m You will need to work as hard as you can for a promotion! Training and attending shifts is a nice idea.
+After the info you go to the training area and teleport players to their trainer (Behind the wall) Use the command :bring (Trainee user) 4 per station
+After training
+:m Thank you for attending! Have a nice day
 
 Co-Host guide
-Intro--- Hi i'm (Username) I will be your co host
+Intro--- 
+:m Hi i'm (Username) I will be your co host
 Before the start make sure that all trainers have the guide
 Complete the shouts
 
