@@ -1,46 +1,36 @@
-A shift is like a training. No longer just supervising.
+
 
 
 Host---- This person needs to see people working hard.
 Co-Host -------- This person is usually the ranker. They rank the people and do the group shout.
-Ranker------- If there is a second ranker ingame or the host decided to do it alone then this is the rankers rank
-ShiftWorker ------ This person Co-ordinates a bit of the shift eg. Shop.
+Ranker------- If there is a second ranker ingame or the host decided to do it alone then this is the rankers job
 
 First figure out what kind of shift it is.
-HR --- Moderator- can be ranked
-MR --- Server moderator- can be ranked
-LR --- Hotel intern- can be ranked
+HR --- Management intern- can be ranked
+MR --- Assistant manager- can be ranked
+LR --- Head fryer- can be ranked
+In a shift you get promoted 1 rank unless you are an LR at a HR shift you get promoted to the first rank of MR
 Requirement for each type
 
 HR
-Host---- Co-owner+
-Co-Host -------- General manager+
-Ranker------- General manager+
-ShiftWorker ------ Head moderator
+Host---- Human resources+
+Co-Host -------- Chief executive officer+
+Ranker------- Chief communications officer 
 
 MR
-Host---- Server admin+
-Co-Host -------- Server admin+
-Ranker------- Head moderator+
-ShiftWorker ------ Server admin+
+Host---- Chief executive officer+
+Co-Host -------- Chief communications officer+
+Ranker------- Chief communications officer+
+
 
 LR
-Host---- Server moderator+
-Co-Host -------- Resort supervisor+
-Ranker------- Head moderator+
-ShiftWorker ------ Resort supervisor+
+Host---- Chief communications officer+
+Co-Host -------- Chief communications officer+
+Ranker------- Chief communications officer+
+
 
 How to start a shift. First make sure a ranker is ingame for the shift and then go the countdown command by saying ;countdown 1800 meaning it will start a countdown for 30 mins
 
-Please announce it on the group wall. See group walls in Support \ MR-HR info \ Group shouts
-Please announce it in sessions on guilded
+Please announce it on the group wall. See group walls in Support \ MR-HR info \ Group shout
 
-
-
-Do what feel right if you are a shiftworker.
-JOBS
-Shop
-Reseraunt
-Lobby
-Help (MR only!)
-
+If a member of staff is working particularly hard consider giving a promotion
