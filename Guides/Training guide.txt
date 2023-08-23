@@ -31,7 +31,7 @@ Trainer guide
 
 Hello everyone I am (Name) I will be your trainer
 
-I will teach you all you need to know about this hotel
+I will teach you all you need to know about Parked pizza
 
 If you need to go AFK please inform me
 
@@ -39,108 +39,20 @@ You get 3 minutes of AFK time
 
 If I go afk or disconnect please wait for me. If I am gone for 5 minutes inform the host about my absence
 
-Is everyone ready All LRs need to answer
+Is everyone ready?
 
 Any questions?
 
-PT 1 Greetings
-Ok. So first we need to devise a greeting
+Ok. So there are 2 jobs that can be filled by an LR chef and server. MR can supervise but are recommended to help LR cook and serve because supervising will not get an MR promotion.
+To cook you interact with certain items. Check the recipes button.
+When you are serving you tell the chefs what the customer wants. If we are understaffed then you will take the order and cook.
+Questions.
+Q1 What is NOT a way to be promoted?
+Q2 What happens if we are understaffed
+Q3 What do you do to cook
+Q4 What jobs do LR do ingame?
 
-A greeting can be anything such as
-
-Welcome to Bulgari resorts I'm (Username) How can I help?
-
-You can personalise it because this is just an example and it does not have to be the exact same
-
-You can add emojis and smileys!
-
-Now I want to see everyones greeting.
-(Wait until they have said their greeting)
-Great job!!!
-
-If they failed by saying something like Welcum too Bulgeraye resort. The requirements are Understandable grammar. If they misspell "Bulgari resorts" You can fail them. If they have to be failed say this
-Sorry. You have failed the Greeting part. Try again next time.
-
-PT 2 The checkin
-
-Well done you all passed the greeting test.
-
-Now I will tell you about the check in.
-
-To check in you say your greeting when someone comes up.
-
-If they say how to work there then reply and answer
-
-If they ask for a room exit the check in desk and bring them to an avalible room.
-
-(Now do a test INDIVIDULY)
-
-Hello. Can I have a room?
-
-Hello how do I work here?
-
-If they do something wrong you can fail them and say 
-Sorry. You have failed the Check in test . Try again next time.
-
-PT3 The shop
-
-Well done you have passed! Now I will tell you about the shop and resteraunt
-
-The shop is an RP but the resteraunt you need to get the players item.
-
-The resteraunt the person will state their order eg chips and pizza. Then you go into the kitchen and get  a bag of chips and a pizza.
-Then use the hand to system to give them it. To use it hold the item you want to give and type in their name 
-
-The shop is a bit different
-
-You first say an edited version of your greeting "Welcome to bulgari store What are you buying"
-
-If they say they do not want to RP do not push them. If they do then check out their items
-
-Now we will do a test
-
-(Walk up to them. They should say their greeting)
-
-Can I have chips?
-or
-Can I check out?
-
-If they fail then say
-Sorry. You have failed the Shop test. You will not be banned and instead please head over to the Training host.
-
-PT 4 Trivia
-
-Well done you have passed now we will do the trivia
-
-(Remember that it is 3 strikes your out except use warns by saying !wrong (their username))
-
-How do I check the cost of items in the shop?
-A. You stand in front of the counter
-
-How do I greet someone properly
-A. Greeting
-
-How do I treat a HR (Not in test use your common sense)
-A.Give the HR space
-
-How do I deal with a troller
-A. Tell an MR
-
-What if there is no MR how do I contact one
-A. On Gilded
-
-How do I check someone in
-A. Bring them to an avalible room
-
-How much points do I need for my next rank?
-A. 1750
-
-(If they get 3 questions wrong they will be auto kicked)
-
-PT 5 End
-Thanks for completing the training.
-Have a nice day!
-(Bring them to the blue line and leave once a ranker comes to them)
-
-
-If at the start the host says there will be a micuture stay ingame 
+If they passed say Congrats you passed
+If they fail say Sorry you failed.
+Failing is if they get 2 questions wrong.
+(Bring them to a ranker. leave once a ranker comes to them)
