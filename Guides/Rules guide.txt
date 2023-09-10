@@ -8,18 +8,19 @@ VRBL WARNS
 Spamming 2 vbl warns
 Impersonating owner or management 
 
-WARNS
-Glitching | Mild
+
+Glitching | Mild (Warn)
 Trolling | Mild
-Unauthorised actions
+Unauthorised actions (Demotion)
 Using ALT accounts to troll [ALT gets banned]
-KICKS
-Trolling
-Glitching
-BANS
-Scamming 
-Abusing admin (7 day)(Demotion)
-Free ranking (365 day)(Demotion)
+Trolling (Kick after 3 warns)
+Glitching (Kick)
+Scamming (Ban)
+Abusing admin (3 month suspention)
+Free ranking to LR MR HR (5 day suspension)
+Free ranking to SHR or management (28 day suspension and if the person free ranked abuses add 2 months to the punishement)
+Hiring bad people (Demotion)
+
 
 
 
